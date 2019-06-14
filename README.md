@@ -19,11 +19,11 @@ $ git clone https://github.com/alexandreestevao/tasklist.git
 
 Depois de clonar/abaixar a aplicação, abrir o projeto na IDE de sua preferência;
 
-mapear a pasta "tasklist" da aplicação back-end (Spring Boot)
+- mapear a pasta "tasklist" da aplicação back-end (Spring Boot)
 
 Criar no servidor de banco de dados MySQL o database "tasklist" e setar o username e password de acesso ao database no arquivo application.properties;
 
-src/main/resource/application.properties
+- src/main/resource/application.properties
 
 Depois de configurar o banco de dados, executar o Maven Install ou Test para baixar as dependências do projeto;
 
@@ -33,7 +33,7 @@ Após, executar (run) o back-end...
 
 Depois de clonar/abaixar a aplicação, abrir o projeto na IDE de sua preferência;
 
-mapear a pasta "tasklist-app" da aplicação front-end (Angular) para executar o comando para baixar as dependências do projeto:
+- mapear a pasta "tasklist-app" da aplicação front-end (Angular) para executar o comando para baixar as dependências do projeto:
 
 $ npm install
 
