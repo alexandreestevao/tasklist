@@ -4,10 +4,10 @@ Este projeto tem por finalidade apresentar uma lista de tarefas (TO DO, DOING e 
 
 ### TECNOLOGIAS UTILIZADAS
 
-Angular 7 (Drag and Drop)
-Java 8 (Spring Boot)
-MySQL 8
-Swagger
+- Angular 7 (Drag and Drop)
+- Java 8 (Spring Boot)
+- MySQL 8
+- Swagger
 
 ### INSTALAÇÃO
 
